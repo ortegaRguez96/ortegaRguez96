@@ -7,6 +7,7 @@ Desarrollador de aplicaciones moviles para el entorno de desarrollo de iOS
 
 Constante interés en estudiar y conocer nuevas y mejores maneras de resolver problemas relacionadas con el mundo del desarrollo móvil principalmente.
 
+<!---  
 Actualmente he iniciado mi carrera con desarrollo de aplicaciones para una empresa con grandes cantidades de usuarios (5,000,000+) enfocada en el ámbito de finanzas personales:
 
 > ** Proyecto actual (avance): **
@@ -27,3 +28,5 @@ Contribución en otras apps con detección de errores y aportación de posibles 
 > **[Gastos Diarios: Finanzas (iOS - Android)](https://apps.apple.com/py/app/gastos-diarios-finanzas/id1414523287#?platform=iphone):**
 
 ![GDLight](images/GDFinanzasIOS.png) 
+
+-->
