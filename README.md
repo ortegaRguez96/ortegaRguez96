@@ -1,32 +1,23 @@
-# iOS Developer
+# iOS - Web Developer
+### Swift - Angular
 ## encodemx
 
-### Apasionado con gran interés en crecer y conocer más sobre el desarrollo de nuevas tecnologías y la aplicación de estas para la resolución de problemas.
+### Desarrollador con gran interés en crecer y conocer más sobre la implementeación de nuevas tecnologías y la aplicación de estas para la resolución de problemas.
 
-Desarrollador de aplicaciones moviles para el entorno de desarrollo de iOS
+Desarrollo de aplicaciones web y móviles.
 
-Constante interés en estudiar y conocer nuevas y mejores maneras de resolver problemas relacionadas con el mundo del desarrollo móvil principalmente.
+Constante interés en estudiar y conocer nuevas y mejores maneras de resolver problemas relacionadas con las tecnologías.
 
-<!---  
-Actualmente he iniciado mi carrera con desarrollo de aplicaciones para una empresa con grandes cantidades de usuarios (5,000,000+) enfocada en el ámbito de finanzas personales:
+Actualmente desarrollo aplicaciones móviles para iOS y iPadOS en una pequeña empresa enfocada en el desarrollo de estos productos.
 
-> ** Proyecto actual (avance): **
+Utilizando diferentes frameworks y tecnologías como Cocoa Pods, Servicios REST y consumo de APIS, como Mapkit y Google Maps entre otras.
+
+** Actualmente trabajamos en un proyecto que pronto estará disponible: **
 
 ![GDLight](images/GDLightLogin.gif)   ![GDLight](images/GDDarkLogin.gif)
 
-> **[Gastos de compras (iOS):](https://apps.apple.com/py/app/shopping-expenses-finance/id1516523197#?platform=iphone):**
+Otros Pro
 
-![GDLight](images/ShoppingExpensesIOS.png) 
+**[Gastos de compras (iOS):](https://apps.apple.com/py/app/shopping-expenses-finance/id1516523197#?platform=iphone):**
 
->**[Mis Torneos (iOS):](https://apps.apple.com/py/app/mis-torneos/id1494591846#?platform=iphone):**
-
-![GDLight](images/MisTorneosIOS.png) 
-
-
-Contribución en otras apps con detección de errores y aportación de posibles soluciones para estas:
-
-> **[Gastos Diarios: Finanzas (iOS - Android)](https://apps.apple.com/py/app/gastos-diarios-finanzas/id1414523287#?platform=iphone):**
-
-![GDLight](images/GDFinanzasIOS.png) 
-
--->
+![GDLight](images/ShoppingExpenses-Home.gif)
