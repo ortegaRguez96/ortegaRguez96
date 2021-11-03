@@ -16,7 +16,7 @@ Utilizando diferentes frameworks y tecnologías como Cocoa Pods, Servicios REST 
 
 ![GDLight](images/GDLightLogin.gif)   ![GDLight](images/GDDarkLogin.gif)
 
-Otros Proyectos
+## Otros proyectos:
 
 **[Gastos de compras (iOS)](https://apps.apple.com/py/app/shopping-expenses-finance/id1516523197#?platform=iphone):**
 
